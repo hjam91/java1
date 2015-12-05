@@ -1,0 +1,9 @@
+URL=http://cnbc.com
+browser=phantom
+device=desktop
+testDataLocation=/home/fortegs/IdeaProjects/java1/src/NewsID.xlsx
+testDataLocationResults=/home/fortegs/IdeaProjects/java1/src/NewsIDResults.xlsx
+chromeDriverLocation= /home/fortegs/Downloads/chromedriver
+IEDriverLocation=
+ScreenshotLocation=/home/fortegs/Results/
+phantomDriverLocation=/home/fortegs/Downloads/phantomjs-2.0.0/bin/phantomjs
